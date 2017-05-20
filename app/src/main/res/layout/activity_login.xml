@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="androidapps.smartshm.com.paledupower.MainActivity"
+    android:background="@drawable/bg">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:layout_width="200px"
+            android:foregroundGravity="center"
+            app:srcCompat="@drawable/logo"
+            android:id="@+id/imageView3"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="126dp"
+            android:layout_marginStart="126dp"
+            android:layout_marginTop="30dp"
+            android:layout_height="150px" />
+
+        <EditText
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:textColor="#ff2d55"
+            android:textColorHint="#04908a"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="149dp"
+            android:id="@+id/editText4"
+            android:hint="Email" />
+
+        <EditText
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:textColorHint="#04908a"
+            android:textColor="#ff2d55"
+            android:layout_centerVertical="true"
+            android:layout_alignRight="@+id/editText4"
+            android:layout_alignEnd="@+id/editText4"
+            android:id="@+id/editText5"
+            android:hint="Password" />
+
+        <Button
+            android:text="login "
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            android:background="#ff2d55"
+            android:textColor="#fff"
+            android:layout_marginTop="38dp"
+            android:layout_below="@+id/editText5"
+            android:layout_alignLeft="@+id/editText5"
+            android:layout_alignStart="@+id/editText5" />
+
+        <TextView
+            android:text="Forget pasword?"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:textColor="@color/colorAccent"
+            android:layout_below="@+id/button"
+            android:layout_alignRight="@+id/imageView3"
+            android:layout_alignEnd="@+id/imageView3"
+            android:layout_marginTop="43dp" />
+
+        <TextView
+            android:text="Don't have account?"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13dp"
+            android:layout_marginStart="13dp"
+            android:id="@+id/textView2"
+            android:textColor="#04908a"
+            android:layout_alignParentBottom="true"
+            android:layout_alignLeft="@+id/button"
+            android:layout_alignStart="@+id/button"
+            android:layout_marginBottom="17dp" />
+
+        <TextView
+            android:text="Sign up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:textColor="#ff2d55"
+            android:layout_alignBaseline="@+id/textView2"
+            android:layout_alignBottom="@+id/textView2"
+            android:layout_toRightOf="@+id/imageView3"
+            android:layout_toEndOf="@+id/imageView3" />
+
+    </RelativeLayout>
+</RelativeLayout>
