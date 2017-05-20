@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\cedfc528256c216b5540e1060b916ec4983f45d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_1a87994a16fbf8e3c1ba67c044c4e23de3f5bb78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\c1013c9c872d689693f2d161ae85735f786c29b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_0579589fdebade7382425ae58e630e4da86c0195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\1b747e45f4b6878fd3c23e56ea91ba05dd68c42b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_83d3f962ed085a4e7d36e4a41e6874451dbccded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c0bab1294c1a219e5c2accaff817dd565e1c777f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_fa5a844303c5a67aadc03d224bccaa5ae4a640a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\865817fc5c7791109c1965dee8948fbd3ae52888\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_494c72862181322c29d7bf033fb67d95e2e606ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\e9b7b644b15d5ad59a30881076519a23b90f2a6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_79ecbc3e79acaf73149fca8fe4e17d99cf43760c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\9ed3a3ef7b52dc41aa087021cfd6225ba4537fa8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_aec51b389bec431c7914eee531ea450e3f76a7f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4cf8611892d504df80f721fbe0b624d2e33e552">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3089a40ff96aeaa2ec4272d257cf5352dd878967\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f12f5bfc5b4a140079a596baaeb2dc60088d95a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\4f928165abbb96e8b92757aa5b30b79c103b6315\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_263699a3dbf2902b8649d3168624b5b6ee20b164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\c2895bbd038fe3a6aae8628f861b5e9bfff70dcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_bc9e635529213aeb5ecb9b8c6e980ef13bea8289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\d104dee4c0084024cea1c579260c9862d1797394\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_2fe8abcfa16ea57607ce6d4f7af6c7b1f822547e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\9a273ad347d898de04250a170b68c1f2d5dae165\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_b8f1e841fb4b9bf46c795dbeff3273bbdaacfcd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\66ba65c1367f1f9fe921220c1a326e2d00479185\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_2f921f50f1effb9f34da93a28dc35126272f1f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\70f7b334080b37a5846cfc6a37313b85e8ae1bd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_90b563e60471de66d9dbe2686c5bfe668e919e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\e8999d2446edfc4c06625a5f852ec623e172ccbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_e1f3b0402ff163e1ab710cc8984fe3f960afee5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\.android\build-cache\bd480cb7cab6afca474acf551673eaf316a7b69d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\pre-dexed\debug\classes_cf6edc0e6ce9102add3b6e2f088f6a6d9151a112.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\hp\Desktop\help-me\paledupower\paledupower\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c44f1c03dd3d1bb367287d0a09747f120b645cb1\classes.dex" />
+    </item>
+
+</items>
